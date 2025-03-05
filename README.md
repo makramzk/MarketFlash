@@ -18,7 +18,7 @@ Analyze audience engagement
 Assess location-based performance trends
 
 ## 🛠️ Tech Stack
-Database: SQL (MySQL / PostgreSQL)
+Database: SQL (MySQL )
 Dashboard: Tableau 
 ETL & Data Processing: SQL, (MySQL)
 ## 📂 Repository Structure
