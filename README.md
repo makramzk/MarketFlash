@@ -19,8 +19,8 @@ Assess location-based performance trends
 
 ## 🛠️ Tech Stack
 Database: SQL (MySQL / PostgreSQL)
-Dashboard: Tableau / Power BI / Python (Matplotlib, Seaborn)
-ETL & Data Processing: SQL, Python (Pandas)
+Dashboard: Tableau 
+ETL & Data Processing: SQL, (MySQL)
 ## 📂 Repository Structure
 database/ → ER Diagram, SQL scripts
 dashboard/ → Dashboard files & visualizations
