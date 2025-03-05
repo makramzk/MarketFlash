@@ -22,8 +22,8 @@ Database: SQL (MySQL )
 Dashboard: Tableau 
 ETL & Data Processing: SQL, (MySQL)
 ## 📂 Repository Structure
-database/ → ER Diagram Click [here] (), SQL scripts
-dashboard/ → Dashboard files & visualizations Click [here](https://public.tableau.com/app/profile/mohammad.akram.zaki/viz/MarketFlashDashboardupdate/MarketFlashMetrics?publish=yes)
+database/ → ER Diagram Click [here](https://github.com/makramzk/MarketFlash/blob/main/1.%20MarketFlash%20ER%20Diagram.png), SQL scripts
+dashboard Click [here]()/ → Dashboard files & visualizations Click [here](https://public.tableau.com/app/profile/mohammad.akram.zaki/viz/MarketFlashDashboardupdate/MarketFlashMetrics?publish=yes)
 data/ → Sample datasets
 docs/ → Documentation & user guide
 ## 🚀 Outcome
