@@ -25,7 +25,7 @@ ETL & Data Processing: SQL, (MySQL)
 database/ → ER Diagram Click [here](https://github.com/makramzk/MarketFlash/blob/main/1.%20MarketFlash%20ER%20Diagram.png), SQL scripts
 dashboard Click [here](https://github.com/makramzk/MarketFlash/blob/main/2.CREATE-TABLE%20Script.sql)/ → Dashboard files & visualizations Click [here](https://public.tableau.com/app/profile/mohammad.akram.zaki/viz/MarketFlashDashboardupdate/MarketFlashMetrics?publish=yes)
 data/ → Sample datasets
-docs/ → Documentation & user guide Click [here](https://docs.google.com/presentation/d/1Lmo9wJizboA5CAnZ1hX0DWH-_hQ8LBUO/edit?usp=sharing&ouid=104261037213996144987&rtpof=true&sd=true)
+docs/ → Documentation & user guide Click [here](https://github.com/makramzk/MarketFlash/blob/main/3.%20MarketFlash%20Presentation.pdf)
 ## 🚀 Outcome
 This project equips MarketFlash with an efficient data infrastructure and a powerful dashboard, enabling data-driven marketing decisions.
 
